@@ -15,3 +15,4 @@ https://cedarwilliams3.github.io/daily-planner-/
 
 # Screenshots
 ![Screenshot 2022-12-12 at 7 32 27 PM](https://user-images.githubusercontent.com/117104359/207220118-e2572c4d-a4d6-4c76-87b6-1f59c39c280d.png)
+![Screenshot 2022-12-12 at 7 34 32 PM](https://user-images.githubusercontent.com/117104359/207220324-4baf6814-9425-4680-9f66-0dcc6b44ec4a.png)
